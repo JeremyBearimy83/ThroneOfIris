@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/throne-of-iris/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/throne-of-iris/static/js/main.e73b7c15.chunk.js",
-    "main.js.map": "/throne-of-iris/static/js/main.e73b7c15.chunk.js.map",
+    "main.js": "/throne-of-iris/static/js/main.271a4052.chunk.js",
+    "main.js.map": "/throne-of-iris/static/js/main.271a4052.chunk.js.map",
     "runtime-main.js": "/throne-of-iris/static/js/runtime-main.6f4a4119.js",
     "runtime-main.js.map": "/throne-of-iris/static/js/runtime-main.6f4a4119.js.map",
     "static/css/2.0da342d8.chunk.css": "/throne-of-iris/static/css/2.0da342d8.chunk.css",
     "static/js/2.d244ac01.chunk.js": "/throne-of-iris/static/js/2.d244ac01.chunk.js",
     "static/js/2.d244ac01.chunk.js.map": "/throne-of-iris/static/js/2.d244ac01.chunk.js.map",
     "index.html": "/throne-of-iris/index.html",
-    "precache-manifest.4c68cb28f3759dcb3bdb176e5098cbb7.js": "/throne-of-iris/precache-manifest.4c68cb28f3759dcb3bdb176e5098cbb7.js",
+    "precache-manifest.adcc8ba66790195bb151a9775544615b.js": "/throne-of-iris/precache-manifest.adcc8ba66790195bb151a9775544615b.js",
     "service-worker.js": "/throne-of-iris/service-worker.js",
     "static/css/2.0da342d8.chunk.css.map": "/throne-of-iris/static/css/2.0da342d8.chunk.css.map",
     "static/css/main.5ecd60fb.chunk.css.map": "/throne-of-iris/static/css/main.5ecd60fb.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.0da342d8.chunk.css",
     "static/js/2.d244ac01.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.e73b7c15.chunk.js"
+    "static/js/main.271a4052.chunk.js"
   ]
 }

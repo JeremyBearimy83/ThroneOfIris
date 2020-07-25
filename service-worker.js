@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/throne-of-iris/precache-manifest.4c68cb28f3759dcb3bdb176e5098cbb7.js"
+  "/throne-of-iris/precache-manifest.adcc8ba66790195bb151a9775544615b.js"
 );
 
 self.addEventListener('message', (event) => {
