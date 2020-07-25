@@ -1,3 +1,6 @@
+## Link to the website:
+[ThroneOfIris](https://ujjwalsinghal.github.io/ThroneOfIris/#/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
