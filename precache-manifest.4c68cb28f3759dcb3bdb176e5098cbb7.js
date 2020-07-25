@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6077aebd88aef591ed7bbf263e6e06e6",
+    "revision": "bd8ff8befd2407b7bae551524abcb791",
     "url": "/throne-of-iris/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/throne-of-iris/static/css/2.0da342d8.chunk.css"
   },
   {
-    "revision": "48211e6a7149247938de",
+    "revision": "400572161c8ea43001fa",
     "url": "/throne-of-iris/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/throne-of-iris/static/js/2.d244ac01.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48211e6a7149247938de",
-    "url": "/throne-of-iris/static/js/main.a3bf4914.chunk.js"
+    "revision": "400572161c8ea43001fa",
+    "url": "/throne-of-iris/static/js/main.e73b7c15.chunk.js"
   },
   {
     "revision": "6efe2c91c376b6fc31e2",
