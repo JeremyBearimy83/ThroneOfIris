@@ -19,8 +19,6 @@ class ColorBox extends Component {
   }
   render() {
     const { classes } = this.props;
-    const isDark = chroma(this.props.color).luminance() <= 0.075;
-    const isLight = chroma(this.props.color).luminance() >= 0.6;
     return (
       <CopyToClipboard text={this.props.color} onCopy={this.handleCopyOverlay}>
         <div

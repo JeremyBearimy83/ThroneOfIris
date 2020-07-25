@@ -1,5 +1,3 @@
-import { Hidden } from "@material-ui/core";
-
 const drawerWidth = 400;
 
 const styles = (theme) => ({

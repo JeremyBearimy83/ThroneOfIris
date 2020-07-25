@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import ColorBox from "./color-box";
 import Navbar from "./navbar";
 import { Link } from "react-router-dom";
-import { withStyles, withTheme } from "@material-ui/styles";
+import { withStyles } from "@material-ui/styles";
 import styles from "./styles/SingleColorPaletteStyles";
 class SingleColorPalette extends Component {
   constructor(props) {

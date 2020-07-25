@@ -33,7 +33,6 @@ export default {
       fontSize: "1rem",
       textTransform: "uppercase",
       textAlign: "center",
-      display: "flex",
       alignItems: "center",
       justifyContent: "center",
       "&:focus": { border: "none", outline: "none" },

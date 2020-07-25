@@ -1,5 +1,3 @@
-import { withTheme } from "@material-ui/styles";
-
 export default {
   root: {
     backgroundColor: "white",
